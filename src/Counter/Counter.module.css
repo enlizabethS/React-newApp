@@ -1,0 +1,14 @@
+.counterBox{
+    background-color: blanchedalmond;
+    margin: 40px;
+    width: 500px;
+    padding: 30px;
+    font-size: 40px;
+}
+.counterBtn{
+    font-size: 20px;
+    border-radius: 15px;
+    width: 70px;
+    height: 70px;
+    background-color:darkgrey;
+}

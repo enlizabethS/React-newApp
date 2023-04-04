@@ -1,0 +1,20 @@
+.genderBox{
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 50px;
+    padding: 10px;
+    background-color: darkolivegreen;
+    color: white;
+    width: 650px;
+    border-radius: 20px;
+}
+.preview{
+    font-size: 15px;
+    margin: 20px;
+    padding: 10px;
+}
+.mini{
+    background-color: rgb(157, 187, 104);
+    border: green;
+    border-radius: 10px;
+}
